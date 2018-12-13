@@ -183,7 +183,7 @@ public class MyGUI {
 			}
 		});
 
-		// add frame table and buttons
+		// add frame table and button
 		listPanel.add(scroll);
 		buttonPanel.add(addBtn);
 		buttonPanel.add(remBtn);
